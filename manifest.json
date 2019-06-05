@@ -1,0 +1,7 @@
+{
+   "name": "GenderEmoji",
+   "type" : ["boolean","real","integer"],
+   "binding": "localizedText",
+   "choiceList": ["👩", "👨", "🧑"]
+
+}
