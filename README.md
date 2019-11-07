@@ -5,6 +5,14 @@
 * **Format:** Bool, Real, Integer ⟶ Emoji
 * **Type:** basic formatter
 
+### Choice list
+
+| database value  | displayed value  |
+|---|---|
+| 0 or `false` | 👩 |
+| 1 or `true`| 👨 |
+| 2 | 🧑 |
+
 ## How to integrate
 
 * To use a custom formatter, the first thing you'll need to do is create a YourDatabase.4dbase/Resources/formatters folder.
